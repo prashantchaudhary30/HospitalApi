@@ -32,7 +32,8 @@ Start the server
   npm start
 ```
 
-
+Hosted link:
+https://prashantchaudhary30.github.io/HospitalApi/
 
 Routes :
 
@@ -59,3 +60,6 @@ Folder Structure
     c. routes - Contains all the routes.
     d. controllers - Contains all the controllers.
     e. config - Contains all the config files.
+    
+Author :
+Prashant Chaudhary
